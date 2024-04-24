@@ -1,4 +1,5 @@
-
+# Objective
+Smart contracts can remove costly errors and automate workflows within the traditional finance sector. Furthermore, smart contract technology has paved the way for decentralized finance (DeFi) platforms to provide financial services without unnecessary intermediaries to optimize efficiency and minimize costs. 
 In this Project::
 
 - We define a `InsuranceClaim` struct to represent an insurance claim.
